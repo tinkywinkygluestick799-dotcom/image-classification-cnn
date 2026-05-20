@@ -2,10 +2,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://tensorflow.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📌 Overview
-This project compares **Convolutional Neural Networks (CNNs)** with traditional machine learning classifiers (Random Forest, SVM) on image classification tasks using the **MNIST** (digits) and **CIFAR-10** (objects) datasets.
+This project compares **Convolutional Neural Networks (CNNs)** with traditional machine learning classifiers (Random Forest, SVM) on image classification tasks using the **MNIST** and **CIFAR-10** datasets.
 
 ## 📊 Results
 
@@ -21,7 +20,6 @@ This project compares **Convolutional Neural Networks (CNNs)** with traditional 
 - TensorFlow / Keras
 - scikit-learn
 - Matplotlib / Seaborn
-- NumPy / Pandas
 
 ## 🚀 How to Run
 
