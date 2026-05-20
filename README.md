@@ -4,7 +4,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://tensorflow.org)
 
 ## 📌 Overview
-This project compares **Convolutional Neural Networks (CNNs)** with traditional machine learning classifiers (Random Forest, SVM) on image classification tasks using the **MNIST** and **CIFAR-10** datasets.
+This project compares CNNs with Random Forest and SVM on MNIST and CIFAR-10.
 
 ## 📊 Results
 
@@ -16,10 +16,7 @@ This project compares **Convolutional Neural Networks (CNNs)** with traditional 
 | CNN (Deep) | 99.3% | 78.1% |
 
 ## 🛠️ Technologies
-- Python 3.8+
-- TensorFlow / Keras
-- scikit-learn
-- Matplotlib / Seaborn
+Python, TensorFlow, scikit-learn, Matplotlib
 
 ## 🚀 How to Run
 
